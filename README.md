@@ -1,4 +1,4 @@
-### Hi there 👋
+![persona](https://github.com/sinanerdinc/sinanerdinc/blob/master/readme.gif?raw=true)
 
 <!--
 **sinanerdinc/sinanerdinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
